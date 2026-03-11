@@ -1,7 +1,7 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'se/screens/dashboard.dart';
+import '/screens/dashboard.dart';
 import '/screens/homePage.dart';
 import '/screens/signupScreen.dart';
 import '/sqlDatabase/databaseHelper.dart';
